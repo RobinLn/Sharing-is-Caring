@@ -9,3 +9,6 @@ Initial commit: Add Sharing is Caring web app
 - Added script.js for functionality: add/delete items, localStorage support
 - Project allows community members to share or request items
 - Ready for deployment on GitHub Pages
+
+
+Website is Live @ - https://robinln.github.io/Sharing-is-Caring/
